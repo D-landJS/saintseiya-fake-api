@@ -1,0 +1,17 @@
+{
+	"name": "saintseiya-fake-api",
+	"version": "1.0.0",
+	"description": "Simple json database to deploy in Heroku",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": [
+		"json-server,heroku, node, REST API"
+	],
+	"author": "D-land Arrese",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	}
+}
